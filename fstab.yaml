@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p142706-e331714-cmstg.adobeaemcloud.com/bin/franklin.delivery/kritikash18/xside2/main"
+    url: "https://author-p165905-e1819234.adobeaemcloud.com/bin/franklin.delivery/kritikash18/xside2/main"
     type: "markup"
     suffix: ".html"
 
